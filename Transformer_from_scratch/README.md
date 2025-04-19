@@ -1,4 +1,4 @@
-# Transformer-Neural-Network
+# Transformer-Neural-Network: Language Translator
 Code Transformer neural network components piece by piece inspired by paper "Attention is all you need". 
 
 I've learned and explained each components of Transfomer in diffrent notebooks 1-6.
