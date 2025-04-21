@@ -12,7 +12,9 @@ Notebook 8 contains the pre-processing steps(cleaning data, creating vocabs etc.
 
 In Notebook 9, I have broken down the entire dataset in smaller chunks to train the model by feeding chunks one after another via for loop. Each chunk is further broken in batches for efficient and fast training on MAC.
 
-Model at least learned something. Need better cleaning of data and better english-hindi sentences dataset
+Model at least learned something. Need better cleaning of data and better english-hindi sentences dataset.
+
+I haven't pushed the model file, cleaned dataset and vocab files as it will occupy memory in github repo.
 
 Reference:
 
